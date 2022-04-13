@@ -58,7 +58,7 @@ def main():
     ids = []
     affectedElements = 0
     # constants
-    # tags that shold be edited
+    # tags that shold be have ids
     TAGS = ['p', 'form', 'a', 'input', 'p', 'h1', 'h2',
             'h3', 'h4', 'h5', 'h6', 'label', 'span', 'select', 'div', 'button', 'li' , 'img', 'tr' , 'td', 'th', 'b' , 'i', 'u', 'strong', 'em', 'ol', 'ul', 'table', 'thead', 'tbody', 'tfoot', 'caption', 'colgroup', 'col', 'tr', 'td', 'th', 'img', 'video', 'audio', 'source', 'track', 'canvas', 'map', 'area', 'svg', 'math', 'iframe', 'object', 'embed', 'time', 'mark', 'wbr', 'textarea', 'noscript', 'style', 'script', 'head', 'title', 'meta', 'link', 'base', 'body', 'html']
     # assign directory
