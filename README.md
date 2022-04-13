@@ -4,7 +4,7 @@ generate unique ids for certain html elements
 ### Requirements
   * python 3
   * bs4 library ``` pip istall bs4 ```
-### Generate random ids
+### Generate ids
 * The program take as input the abspath of your directory that contains html template file 
 * gives as output the number of elements affected
 * Example:
